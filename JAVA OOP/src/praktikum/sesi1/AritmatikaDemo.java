@@ -39,24 +39,5 @@ public class AritmatikaDemo {
         System.out.println(" i % j = " + (i % j));
         System.out.println(" x % y = " + (x % y));
 
-        //Pengurangan angka
-        System.out.println("Subtracting...");
-        System.out.println(" i - j = " + (i - j));
-        System.out.println(" x - y = " + (x - y));
-
-        //Perkalian angka
-        System.out.println("Multiplying...");
-        System.out.println(" i * j = " + (i * j));
-        System.out.println(" x * y = " + (x * y));
-
-        //Pembagian angka
-        System.out.println("Dividing...");
-        System.out.println(" i / j = " + (i / j));
-        System.out.println(" x / y = " + (x / y));
-
-        //Menghitung hasil modulus dari pembagian
-        System.out.println("Computing the remainder...");
-        System.out.println(" i % j = " + (i % j));
-        System.out.println(" x % y = " + (x % y));
     }
 }
